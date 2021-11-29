@@ -1,0 +1,14 @@
+.nab{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.nab >h2{
+    font-size: 28px;
+    font-weight: 400;
+}
+.nabbar{
+    display: flex;
+    flex: 0.2;
+}

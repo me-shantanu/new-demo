@@ -1,0 +1,27 @@
+.singlenav__link {
+    color: #075e54 !important;
+    text-decoration: none;
+  }
+  .singlenav__link:hover {
+    text-decoration: none;
+  }
+  .singlenav {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 5px;
+  }
+  .singlenav:hover {
+    background-color: #52e187;
+    border-radius: 20px;
+    color: #ece5dd;
+    transition: color 100ms ease-out;
+  }
+.singlenav__text{
+    text-decoration: none;
+    padding: 1px;
+    font-size: 20px !important;
+    font-weight: 400;
+}

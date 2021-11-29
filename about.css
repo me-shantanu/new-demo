@@ -1,0 +1,18 @@
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about > a{
+    text-decoration: none;
+    cursor: pointer;
+}
+.about > a> span{
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #52e187;
+    color: white;
+}
